@@ -1,4 +1,2 @@
 # apna-college-demo
-hello 
-<br>
-author ritham gupta
+hello <br>author ritham gupta
